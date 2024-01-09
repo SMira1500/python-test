@@ -37,6 +37,6 @@ print('result: ' + str(result))
   
 '''
 startIndex, endIndex
-yo mama
+yo mama 2.0
 [0, 1, 2, 3, ..., product2]
 '''
